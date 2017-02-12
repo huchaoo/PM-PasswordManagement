@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.3.0)
+  - MGSwipeTableCell (1.5.6)
+  - PermissionScope (1.1.1)
+  - PopupDialog (0.5.3)
+  - Realm (2.4.1):
+    - Realm/Headers (= 2.4.1)
+  - Realm/Headers (2.4.1)
+  - RealmSwift (2.4.1):
+    - Realm (= 2.4.1)
+  - SDCAlertView (7.1)
+  - SideMenu (2.2.0)
+  - TextFieldEffects (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MGSwipeTableCell
+  - PermissionScope
+  - PopupDialog (~> 0.5)
+  - RealmSwift
+  - SDCAlertView (~> 7.1)
+  - SideMenu
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  MGSwipeTableCell: 616700eb0ffd1c611ba909066cb7fd739790a0a7
+  PermissionScope: a30c16e015779ba27c97c124e7539e27b5829de2
+  PopupDialog: 533dd564f8781633375505b9fbd406f8f146ccc9
+  Realm: 37a5198a197598d9ec0e4d1ae2f64924c86eeb9a
+  RealmSwift: d69e431b79a41acdf14c404b868ae1c2458916e1
+  SDCAlertView: b92fd1f00e522e18a062005e15a16c1e8295c5b5
+  SideMenu: eeff6b85456c5c6e14165655691d2033f6b24969
+  TextFieldEffects: ef594746f17997c813e07633f8ae5acaf9b04f27
+
+PODFILE CHECKSUM: 2794bb40998636925411b1d99607b490b4aac577
+
+COCOAPODS: 1.1.1
